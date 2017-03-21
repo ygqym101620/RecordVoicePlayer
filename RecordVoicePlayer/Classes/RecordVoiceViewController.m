@@ -8,6 +8,7 @@
 
 #import "RecordVoiceViewController.h"
 #import <AVFoundation/AVFoundation.h>
+//可以录制语音及播放语音
 @interface RecordVoiceViewController ()<AVAudioPlayerDelegate,AVAudioRecorderDelegate>
 @property(nonatomic,strong)UIButton    *recordBtn;
 @property(nonatomic,strong)UIButton    *playerBtn;

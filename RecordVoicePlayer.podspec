@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RecordVoicePlayer'
-  s.version          = '1.0.2'
+  s.version          = '1.0.3'
   s.summary          = 'Record Voice and play the Voice.'
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
