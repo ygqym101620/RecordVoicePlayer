@@ -1,0 +1,720 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AFHTTPRequestOperation.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPRequestOperationManager.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPSessionManager.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkActivityIndicatorManager.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkReachabilityManager.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-Swift.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFNetworking-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-umbrella.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/Target Support Files/AFNetworking/AFNetworking-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/AFNetworking/AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFSecurityPolicy.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLConnectionOperation.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLRequestSerialization.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLResponseSerialization.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLSessionManager.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActivityIndicatorView+AFNetworking.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIAlertView+AFNetworking.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+AFNetworking.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+AFNetworking.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+AFNetworking.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIKit+AFNetworking.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIProgressView+AFNetworking.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIRefreshControl+AFNetworking.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIWebView+AFNetworking.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/AFNetworking.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Build/Products/Debug-iphonesimulator/Pods_RecordVoicePlayer_Example.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-RecordVoicePlayer_Example-umbrella.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/Target Support Files/Pods-RecordVoicePlayer_Example/Pods-RecordVoicePlayer_Example-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_RecordVoicePlayer_Example-Swift.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Build/Products/Debug-iphonesimulator/Pods_RecordVoicePlayer_Example.framework/Headers/Pods_RecordVoicePlayer_Example-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Build/Products/Debug-iphonesimulator/Pods_RecordVoicePlayer_Example.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-RecordVoicePlayer_Example.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Build/Products/Debug-iphonesimulator/ReactiveCocoa/ReactiveCocoa.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MKAnnotationView+RACSignalSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/MKAnnotationView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+RACSequenceAdditions.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSArray+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSData+RACSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSData+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDictionary+RACSequenceAdditions.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSDictionary+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSEnumerator+RACSequenceAdditions.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSEnumerator+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSFileHandle+RACSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSFileHandle+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSIndexSet+RACSequenceAdditions.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSIndexSet+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSInvocation+RACTypeParsing.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSInvocation+RACTypeParsing.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSNotificationCenter+RACSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSNotificationCenter+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACDeallocating.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACDeallocating.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACDescription.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACDescription.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACKVOWrapper.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACKVOWrapper.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACLifting.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACLifting.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACPropertySubscribing.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACPropertySubscribing.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+RACSelectorSignal.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACSelectorSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSOrderedSet+RACSequenceAdditions.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSOrderedSet+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSSet+RACSequenceAdditions.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSSet+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+RACKeyPathUtilities.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACKeyPathUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+RACSequenceAdditions.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACSequenceAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+RACSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSURLConnection+RACSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSURLConnection+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSUserDefaults+RACSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/NSUserDefaults+RACSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACArraySequence.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACArraySequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACBehaviorSubject.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACBehaviorSubject.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACBlockTrampoline.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACBlockTrampoline.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACChannel.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACChannel.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACCommand.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACCommand.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACCompoundDisposable.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACCompoundDisposable.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDelegateProxy.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACDelegateProxy.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDisposable.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACDisposable.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDynamicSequence.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACDynamicSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACDynamicSignal.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACDynamicSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEXTKeyPathCoding.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACEXTKeyPathCoding.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEXTRuntimeExtensions.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACEXTRuntimeExtensions.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEXTScope.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACEXTScope.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEagerSequence.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACEagerSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEmptySequence.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACEmptySequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEmptySignal.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACEmptySignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACErrorSignal.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACErrorSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACEvent.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACEvent.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACGroupedSignal.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACGroupedSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACImmediateScheduler.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACImmediateScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACIndexSetSequence.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACIndexSetSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACKVOChannel.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOChannel.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACKVOProxy.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOProxy.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACKVOTrampoline.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOTrampoline.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACMulticastConnection.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACMulticastConnection.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACObjCRuntime.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACObjCRuntime.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACPassthroughSubscriber.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACPassthroughSubscriber.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACQueueScheduler+Subclass.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACQueueScheduler+Subclass.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACQueueScheduler.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACQueueScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACReplaySubject.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACReplaySubject.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACReturnSignal.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACReturnSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACScheduler+Subclass.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACScheduler+Subclass.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACScheduler.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACScopedDisposable.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACScopedDisposable.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSequence.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSerialDisposable.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACSerialDisposable.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSignal+Operations.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACSignal+Operations.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSignal.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACSignal.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSignalSequence.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACSignalSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACStream.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACStream.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACStringSequence.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACStringSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubject.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACSubject.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubscriber.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriber.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubscriptingAssignmentTrampoline.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriptingAssignmentTrampoline.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubscriptionScheduler.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriptionScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACTargetQueueScheduler.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACTargetQueueScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACTestScheduler.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACTestScheduler.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACTuple.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACTuple.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACTupleSequence.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACTupleSequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACUnarySequence.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACUnarySequence.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACUnit.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACUnit.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACValueTransformer.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACValueTransformer.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACmetamacros.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACmetamacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "ReactiveCocoa-Swift.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Build/Products/Debug-iphonesimulator/ReactiveCocoa/ReactiveCocoa.framework/Headers/ReactiveCocoa-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ReactiveCocoa-umbrella.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/Target Support Files/ReactiveCocoa/ReactiveCocoa-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "ReactiveCocoa.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/ReactiveCocoa.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActionSheet+RACSignalSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UIActionSheet+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIAlertView+RACSignalSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UIAlertView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIBarButtonItem+RACCommandSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UIBarButtonItem+RACCommandSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+RACCommandSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UIButton+RACCommandSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UICollectionReusableView+RACSignalSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UICollectionReusableView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIControl+RACSignalSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UIControl+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIControl+RACSignalSupportPrivate.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UIControl+RACSignalSupportPrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIDatePicker+RACSignalSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UIDatePicker+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIGestureRecognizer+RACSignalSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UIGestureRecognizer+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImagePickerController+RACSignalSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UIImagePickerController+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIRefreshControl+RACCommandSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UIRefreshControl+RACCommandSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISegmentedControl+RACSignalSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UISegmentedControl+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISlider+RACSignalSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UISlider+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIStepper+RACSignalSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UIStepper+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISwitch+RACSignalSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UISwitch+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITableViewCell+RACSignalSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UITableViewCell+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITableViewHeaderFooterView+RACSignalSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UITableViewHeaderFooterView+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextField+RACSignalSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UITextField+RACSignalSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITextView+RACSignalSupport.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/UITextView+RACSignalSupport.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Build/Products/Debug-iphonesimulator/ReactiveCocoa/ReactiveCocoa.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/ReactiveCocoa.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Build/Products/Debug-iphonesimulator/ReactiveCocoa/ReactiveCocoa.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RACMulticastConnection+Private.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACMulticastConnection+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACScheduler+Private.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACScheduler+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACStream+Private.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACStream+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "RACSubscriber+Private.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriber+Private.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Build/Products/Debug-iphonesimulator/RecordVoicePlayer/RecordVoicePlayer.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RecordVoicePlayer-Swift.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Build/Products/Debug-iphonesimulator/RecordVoicePlayer/RecordVoicePlayer.framework/Headers/RecordVoicePlayer-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "RecordVoicePlayer-umbrella.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Pods/Target Support Files/RecordVoicePlayer/RecordVoicePlayer-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "RecordVoiceViewController.h",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/RecordVoicePlayer/Classes/RecordVoiceViewController.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Build/Products/Debug-iphonesimulator/RecordVoicePlayer/RecordVoicePlayer.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/yangguoqiang/Desktop/RecordVoicePlayer/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/RecordVoicePlayer.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

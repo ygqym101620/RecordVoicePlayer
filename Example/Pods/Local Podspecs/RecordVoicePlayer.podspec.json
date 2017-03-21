@@ -1,0 +1,34 @@
+{
+  "name": "RecordVoicePlayer",
+  "version": "1.0.1",
+  "summary": "Record Voice and play the Voice.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://yangguoqiang@bitbucket.org/yangguoqiang/recordvoiceplayer.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ygqym101620": "yanggq101620@163.com"
+  },
+  "source": {
+    "git": "https://yangguoqiang@bitbucket.org/yangguoqiang/recordvoiceplayer.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RecordVoicePlayer/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "AVFoundation"
+  ],
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.5"
+    ],
+    "ReactiveCocoa": [
+      "~>2.5"
+    ]
+  }
+}

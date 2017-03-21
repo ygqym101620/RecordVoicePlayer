@@ -1,0 +1,6 @@
+framework module Pods_RecordVoicePlayer_Tests {
+  umbrella header "Pods-RecordVoicePlayer_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
